@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## FinePrint 3.35
 
-You can use the [editor on GitHub](https://github.com/mightyuhu/mightyuhu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ I have a problem. Waste worries me - whether it’s food, money, time or whatever… I don’t like wasting it. I drive in an economical way, I turn lights off automatically when I leave a room, and if I can get value for money in any possible way, then chances are that I’m already doing it. Don’t get me wrong - it’s not that I’m stingy (well not that stingy) it’s just the waste thing.
 
-### Markdown
+Which is why I went hunting for some way of saving paper. I was printing on both sides wherever possible, but this soon started leaving smears on the paper. No good. My printer comes with its own software to allow you to shrink and fit more than one page on a single sheet of paper, but it just doesn’t work properly, and is slow to setup.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Features: 
 
-```markdown
-Syntax highlighted code block
+Which is where FinePrint comes in. This simple but powerful software installs itself as a ‘virtual printer’ of sorts, allowing you to select it in the same way as you’d select your standard printer. What can it do? Quite a lot actually. First of all it can fit 2, 4 or 8 pages on a single sheet of paper - great for saving a huge amount of paper when it comes to printing drafts, web pages or just about anything. On top of this (no pun intended), the software allows you to place ‘watermarks’ on printed pages - for instance draft or confidential, and can also add the header and/or footer of your choice. Extras include being able to alter the scaling of any printout (for example an A4 document being printed on legal size paper) and also the ability to print booklets.
 
-# Header 1
-## Header 2
-### Header 3
+# Simplicity: 
 
-- Bulleted
-- List
+The beauty of the software is it’s simplicity - the fact that it’s a printer driver means that any software in windows that can print can take advantage of these features. You can even set it as your default printer. As standard, the options will come up each time you are about to print, allowing you to setup the layout, watermark etc. as you print each document. And does it work? Yes - absolutely. We encountered no problems whatsoever, and tested it with a total of over 15 different applications. Obviously there are limits how much you can squeeze onto one page and retain legibility - although you can fit an eight page email onto one A4 sheet, this might make reading quite tricky, but there are certain circumstances where this can be very useful indeed. Personally I found that putting two pages onto one significantly reduced the amount of paper I was using, without any real problem in terms of legibility.
 
-1. Numbered
-2. List
+# Problems: 
 
-**Bold** and _Italic_ and `Code` text
+Absolutely none - there is no 'setting-up' as such, and using the software's features really couldn't be simpler.
 
-[Link](url) and ![Image](src)
-```
+# Conclusion:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mightyuhu/mightyuhu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Saving paper and saving money??? This is one piece of software that is certainly making the move from test machine to my own desktop - and that’s praise indeed!! If you print a lot, and want to cut down on paper and space, then this could be a very wise investment indeed. The trial version will allow you to print up to eight pages at a time with a small trial notice printed on each page. Check this one out - a very small download, and one of those small utilities that in no time at all you’ll be lost without it.
