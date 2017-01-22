@@ -19,6 +19,14 @@ The service is different than other promotion services, which are illegal and so
 
 Which is where FinePrint comes in. This simple but powerful software installs itself as a ‘virtual printer’ of sorts, allowing you to select it in the same way as you’d select your standard printer. What can it do? Quite a lot actually. First of all it can fit 2, 4 or 8 pages on a single sheet of paper - great for saving a huge amount of paper when it comes to printing drafts, web pages or just about anything. On top of this (no pun intended), the software allows you to place ‘watermarks’ on printed pages - for instance draft or confidential, and can also add the header and/or footer of your choice. Extras include being able to alter the scaling of any printout (for example an A4 document being printed on legal size paper) and also the ability to print booklets.
 
+Check:   [http://www.soundcloudpromotions.com](http://soundcloudpromotions.com)
+
+For just $7, service attracts 400 followers to your account and gives you 2,000 people to follow. For $30, these numbers increase to 3,000 followers and 10,000 people to follow. For $55, you can get 6,000 followers and 20,000 people to follow. 
+
+Finally, in the best value Pro Plus plan, $150 gets you 18,000 followers and 60,000 people to follow. 
+
+As you can see, these cheap prices will soon pay for themselves with the sales and attention your SoundCloud account and music will get after promoting them this way. Increasing your number of SoundCloud followers is the best way to promote your music, your brand and your label, which leads to more sales and more buzz for your music.
+
 # Simplicity: 
 
 The beauty of the software is it’s simplicity - the fact that it’s a printer driver means that any software in windows that can print can take advantage of these features. You can even set it as your default printer. As standard, the options will come up each time you are about to print, allowing you to setup the layout, watermark etc. as you print each document. And does it work? Yes - absolutely. We encountered no problems whatsoever, and tested it with a total of over 15 different applications. Obviously there are limits how much you can squeeze onto one page and retain legibility - although you can fit an eight page email onto one A4 sheet, this might make reading quite tricky, but there are certain circumstances where this can be very useful indeed. Personally I found that putting two pages onto one significantly reduced the amount of paper I was using, without any real problem in terms of legibility.
