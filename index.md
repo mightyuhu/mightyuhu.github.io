@@ -5,6 +5,16 @@
 
 Which is why I went hunting for some way of saving paper. I was printing on both sides wherever possible, but this soon started leaving smears on the paper. No good. My printer comes with its own software to allow you to shrink and fit more than one page on a single sheet of paper, but it just doesn’t work properly, and is slow to setup.
 
+## Providing The Best Soundcloud Followers
+
+
+Providing The Best Design
+It may seem a daunting task to increase your followers on SoundCloud and get the attention and sales that you and your music deserve.
+
+That is where Our promotion offered by  [soundcloudpromotions.com](http://soundcloudpromotions.com) comes in. Soundcloud-followers.com is a premium service that increases the number of followers, comments, plays and downloads that are on your account for a low monthly fee. 
+
+The service is different than other promotion services, which are illegal and some of which even break SoundCloud's Terms of Service. Service attracts real artists, singers, disk jockeys and managers to your account. It does not attract fake users like many other similar services do.
+
 # Features: 
 
 Which is where FinePrint comes in. This simple but powerful software installs itself as a ‘virtual printer’ of sorts, allowing you to select it in the same way as you’d select your standard printer. What can it do? Quite a lot actually. First of all it can fit 2, 4 or 8 pages on a single sheet of paper - great for saving a huge amount of paper when it comes to printing drafts, web pages or just about anything. On top of this (no pun intended), the software allows you to place ‘watermarks’ on printed pages - for instance draft or confidential, and can also add the header and/or footer of your choice. Extras include being able to alter the scaling of any printout (for example an A4 document being printed on legal size paper) and also the ability to print booklets.
